@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/officialanshpal/DSA/tree/master/0002-add-two-numbers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialanshpal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/officialanshpal/DSA/tree/master/1291-sequential-digits) |
+## Array
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialanshpal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialanshpal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/officialanshpal/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
